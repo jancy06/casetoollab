@@ -7,6 +7,10 @@ public class jjj {
 		int a=2,b=4,sum=0;
 		System.out.println("the result is");
 		
+		
+	}
+	void display() {
+		System.out.println("hello");
 	}
 	
 	
